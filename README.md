@@ -5,7 +5,7 @@ Code may break down sometimes, idk why, just ignore it
 
 
 NOTE:
-  Dealer doesn't stop hitting at 17
+  Dealer doesn't stop hitting at 17\n
   Blackjack pays out regular pot
   Text file must contain at least 5 user accounts
   
